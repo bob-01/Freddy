@@ -1,0 +1,12 @@
+*.bak
+*.OBJ
+*.SRC
+*.LST
+asm.__i
+*.hex
+*.plg
+*lnp
+*.ls1
+*.M51
+*.build_log.htm
+*.uvgui.bob
