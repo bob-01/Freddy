@@ -172,10 +172,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>43</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>29</TopLine>
-      <CurrentLine>52</CurrentLine>
+      <TopLine>49</TopLine>
+      <CurrentLine>64</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\chengxu1.c</PathWithFileName>
       <FilenameWithoutPath>chengxu1.c</FilenameWithoutPath>
@@ -1527,9 +1527,9 @@
       <Documents>
         <Doc>
           <Name>.\chengxu1.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>29</TopLine>
-          <CurrentLine>52</CurrentLine>
+          <ColumnNumber>43</ColumnNumber>
+          <TopLine>49</TopLine>
+          <CurrentLine>64</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
