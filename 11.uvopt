@@ -172,15 +172,41 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>43</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>49</TopLine>
-      <CurrentLine>64</CurrentLine>
+      <TopLine>248</TopLine>
+      <CurrentLine>254</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\chengxu1.c</PathWithFileName>
       <FilenameWithoutPath>chengxu1.c</FilenameWithoutPath>
     </File>
   </Group>
+
+  <AlienFiles>
+    <PathWithFilename>D:\repository\Freddy\FREDDY.H</PathWithFilename>
+    <TopLine>57</TopLine>
+    <CurrentLine>60</CurrentLine>
+    <Constant>0</Constant>
+    <WindowPosition>
+      <length>0</length>
+      <flags>0</flags>
+      <showCmd>0</showCmd>
+      <MinPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MinPosition>
+      <MaxPosition>
+        <xPos>0</xPos>
+        <yPos>0</yPos>
+      </MaxPosition>
+      <NormalPosition>
+        <Top>0</Top>
+        <Left>0</Left>
+        <Right>0</Right>
+        <Bottom>0</Bottom>
+      </NormalPosition>
+    </WindowPosition>
+  </AlienFiles>
 
   <WinLayout>
     <sActiveDebugView>Default</sActiveDebugView>
@@ -1527,9 +1553,15 @@
       <Documents>
         <Doc>
           <Name>.\chengxu1.c</Name>
-          <ColumnNumber>43</ColumnNumber>
-          <TopLine>49</TopLine>
-          <CurrentLine>64</CurrentLine>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>248</TopLine>
+          <CurrentLine>254</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>FREDDY.H</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>57</TopLine>
+          <CurrentLine>60</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
